@@ -1,5 +1,4 @@
-# OgrenciMezunBilgiSistemiMobil
-Öğrenci Mezun Bilgi Sistemi Mobil Uygulama
+# Öğrenci Mezun Bilgi Sistemi Mobil Uygulama
 
 ## Gereksinimler
    - Android Studio İDE 
