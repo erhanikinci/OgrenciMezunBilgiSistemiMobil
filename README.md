@@ -112,7 +112,8 @@
     - Aşağıda görüldüğü gibi sistemden kullanıcı Silme işlemi gerçekleştirilebilir. Mezun öğrenci bilgi sistemi sil seçeneği ile evet
       butonuna tıklandığında sistemden kullanıcı silme işlemi gerçekleştirilebilir.  
 <p align="center">
-  <img width="300" height="600" src="">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155017941-9527818a-03a1-4e81-a756-70284fa7a8e8.jpg">
 </p>  
+
 
 
