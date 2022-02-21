@@ -126,6 +126,16 @@
 
 
 
+### Mezun öğrenci Fakülte, yıl ve bölüm eklenmesi
+    - Yukarıda görüldüğü gibi katılımcı ekle butonuna tıklandığında mezun öğrenci fakülte, yıl ve bölüm eklenmesi yapılabilir. Bu ekranda
+      fakülteler arasında Çorlu mühendislik fakültesi, yıllardan 2017 yılı, bölümlerden ise Bilgisayar Mühendisliği bölümü’ nü seçelim.
+      
+    - Tarih seçinin butonuna tıklandığında aşağıda görüldüğü gibi kullanıcının hangi tarihte mezun olduğu bilgisi ayarlanabilir ve 
+      Tamam seçeneğine tıklandığında aşağıda görüldüğü gibi bir metin kutusu içerisine seçilen tarih basılır.
+<p align="center">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155019673-615d9b43-b2bf-42f7-acbb-3c03e1649a6b.jpg">
+     <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155019726-3e91cff5-7ab9-4e25-9456-1a82a71e4243.jpg">
+</p>  
 
 
 
