@@ -64,8 +64,9 @@
       telefon numarası, adres, kullanıcı adı ve şifre bilgilerini doldurarak sisteme kaydını gerçekleştirebilir. Bilgiler doldurulduktan sonra
       kaydet butonuna tıklandığında aşağıdaki gibi kullanıcı başarıyla kaydoldu mesajıyla karşılaşır. 
 <p align="center">
-  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155014628-c6300ce8-3bfd-40c6-95a5-a5ffe20e7854.jpg">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155015874-1e34fc32-c603-48bf-9d8f-4ee7d76df594.jpg">
 </p>  
+
 
 
 
