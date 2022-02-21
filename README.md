@@ -133,9 +133,10 @@
     - Tarih seçinin butonuna tıklandığında aşağıda görüldüğü gibi kullanıcının hangi tarihte mezun olduğu bilgisi ayarlanabilir ve 
       Tamam seçeneğine tıklandığında aşağıda görüldüğü gibi bir metin kutusu içerisine seçilen tarih basılır.
 <p align="center">
-  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155019673-615d9b43-b2bf-42f7-acbb-3c03e1649a6b.jpg">
-     <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155019726-3e91cff5-7ab9-4e25-9456-1a82a71e4243.jpg">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155020465-179fb46a-2c50-473c-b535-329ebe78e994.jpg">
+     <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155020521-839d7b22-ecf3-437f-9f72-ca957dfda8e0.jpg">
 </p>  
+
 
 
 
