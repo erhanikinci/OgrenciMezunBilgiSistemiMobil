@@ -55,10 +55,11 @@
       bulunmaktadır. Yönetici burada Fakülte ekle seçeneği ile sisteme yeni bir kullanıcı tanımlama işlemini başlatabilir.
       Fakülte Ekle butonuna tıklandığında Aşağıdaki gibi bir ekran açılır.  
 <p align="center">
-  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155014605-2c0135d4-7e15-4e13-ba07-5724d309d196.jpg">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155014628-c6300ce8-3bfd-40c6-95a5-a5ffe20e7854.jpg">
 </p>  
 
- 
+
+
 
 
 
