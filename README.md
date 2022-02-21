@@ -29,11 +29,21 @@
 
 ### Başla Ekranı
     - Uygulamaya çift tıklandıktan sonra kullanıcı aşağıdaki gibi bir ekran görüntüsüne erişecektir. Bu aşamada
-      kullanıcının Başla butonuna tıklaması gerekmektedir. Başla butonuna tıklandığında kullanıcı giriş ekranına erişecektir.  
+      kullanıcının Başla butonuna tıklaması gerekmektedir. Başla butonuna tıklandığında kullanıcı giriş ekranına erişecektir.
+      
+    - Oturum açma ekranında kullanıcıların Android uygulaması ile oturum açması sağlanmaktadır. Aşağıdaki ekranda
+      görüldüğü gibi sisteme hangi türden giriş yapacağı seçilmelidir. Default olarak yönetici girişi seçeneği seçilmiş
+      olarak gelir. Kullanıcı bu ekranda 2 tür giriş seçeneği ile karşılaşır, “yönetici” ve “fakülte” giriş seçenekleridir.       
  <p align="center">
-  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/154991533-ec87022b-9f64-44c4-9634-ec6715af7dd8.jpg">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155014581-9b7dd062-6135-48c5-ad4e-bea885adf0f0.jpg">
 </p>
 
 
-   
+
+### Yönetici Giriş Ekranı
+    - Yönetici girişi ile sisteme kullanıcı adı : yönetici, şifre : yönetici123 ile sisteme giriş yapılabilir.
+      Sisteme yönetici olarak giriş yapıldığında aşağıda görüldüğü gibi aşağıdaki gibi bir ekran ile karşılaşır.
+ <p align="center">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155014581-9b7dd062-6135-48c5-ad4e-bea885adf0f0.jpg">
+</p>   
    
