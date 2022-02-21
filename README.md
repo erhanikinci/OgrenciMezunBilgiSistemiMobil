@@ -120,5 +120,12 @@
     - Sisteme kayıt ettiğim kullanıcı adı ve şifre ile oturum açma işlemi başlatabilir, bu sayfada yönetici yerine fakülte seçeneğinin seçilmiş
       olması gerekmektedir. Aşağıdaki ekranda Mezun kullanıcı bilgi sistemine giriş yapıldığında şekil 16’ da ki gibi bir ekran açılır. 
 <p align="center">
-  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155017941-9527818a-03a1-4e81-a756-70284fa7a8e8.jpg">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155019673-615d9b43-b2bf-42f7-acbb-3c03e1649a6b.jpg">
+     <img width="300" height="600" src="">
 </p>  
+
+
+
+
+
+
