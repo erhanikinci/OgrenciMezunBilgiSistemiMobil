@@ -121,8 +121,9 @@
       olması gerekmektedir. Aşağıdaki ekranda Mezun kullanıcı bilgi sistemine giriş yapıldığında şekil 16’ da ki gibi bir ekran açılır. 
 <p align="center">
   <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155019673-615d9b43-b2bf-42f7-acbb-3c03e1649a6b.jpg">
-     <img width="300" height="600" src="">
+     <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155019726-3e91cff5-7ab9-4e25-9456-1a82a71e4243.jpg">
 </p>  
+
 
 
 
