@@ -132,9 +132,13 @@
       
     - Tarih seçinin butonuna tıklandığında aşağıda görüldüğü gibi kullanıcının hangi tarihte mezun olduğu bilgisi ayarlanabilir ve 
       Tamam seçeneğine tıklandığında aşağıda görüldüğü gibi bir metin kutusu içerisine seçilen tarih basılır.
+      
+    - Aiağıda görüldüğü gibi Çorlu Mühendislik Fakültesi, 2017 yılı, Bilgisayar Mühendisliği bölümü varsa işe başlama tarihini (17/02/2021)
+      sisteme katılım işlemini gerçekleştirilebilir. Katılımcı ekle butonuna tıklanır ve aşağıdaki gibi bir ekran açılır.
 <p align="center">
   <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155020465-179fb46a-2c50-473c-b535-329ebe78e994.jpg">
      <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155020521-839d7b22-ecf3-437f-9f72-ca957dfda8e0.jpg">
+   <img width="300" height="600" src="">
 </p>  
 
 
