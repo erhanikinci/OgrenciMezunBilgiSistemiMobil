@@ -59,7 +59,13 @@
 </p>  
 
 
-
+### Fakülte Ekle Ekranı
+    - Aşağıdaki açılan ekranda yönetici sisteme mezun/öğrenci kullanıcı işlemini tanımlayabilir. Bu ekranda kullanıcı bilgileri: isim, soyisim,
+      telefon numarası, adres, kullanıcı adı ve şifre bilgilerini doldurarak sisteme kaydını gerçekleştirebilir. Bilgiler doldurulduktan sonra
+      kaydet butonuna tıklandığında aşağıdaki gibi kullanıcı başarıyla kaydoldu mesajıyla karşılaşır. 
+<p align="center">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155014628-c6300ce8-3bfd-40c6-95a5-a5ffe20e7854.jpg">
+</p>  
 
 
 
