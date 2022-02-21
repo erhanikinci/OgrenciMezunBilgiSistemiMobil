@@ -105,6 +105,14 @@
 
 
 
-
+### Mezun sisteminden öğrencinin Silinmesi işlemi
+    - Aşağıdaki ekranda sisteme daha önceden kayıt ettiğim 2017 yılına çorlu mühendislik fakültesine ait kullanıcıların bilgileri görülmektedir.
+      Kullanıcıların üzerine yaklaşık 4 saniye ile tıklandığında aşağıdaki gibi bir seçenek ile karşılaşılır.
+      
+    - Aşağıda görüldüğü gibi sistemden kullanıcı Silme işlemi gerçekleştirilebilir. Mezun öğrenci bilgi sistemi sil seçeneği ile evet
+      butonuna tıklandığında sistemden kullanıcı silme işlemi gerçekleştirilebilir.  
+<p align="center">
+  <img width="300" height="600" src="">
+</p>  
 
 
