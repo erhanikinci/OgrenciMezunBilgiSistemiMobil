@@ -76,4 +76,8 @@
 </p>  
 
 
-
+### "Fakülte Görüntüle" Mezun öğrencileri görünteleme ekranı
+    - Bu ekranda aşağıdaki sisteme daha önceden tanımladığım kullanıcıların Adı ve Soyadı bilgileri yer almaktadır.
+<p align="center">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155015887-22b0634b-7afa-415c-ba09-50c51bca801c.jpg">
+</p>  
