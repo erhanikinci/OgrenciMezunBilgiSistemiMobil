@@ -46,4 +46,19 @@
 <p align="center">
   <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155014605-2c0135d4-7e15-4e13-ba07-5724d309d196.jpg">
 </p>   
-  
+ 
+ 
+
+### Yönetici Giriş Ekranı
+    - Kullanıcı adı ve şifreyi başarılı bir şekilde yazıp giriş yapıldığında aşağıdaki gibi bir ekran ile karşılaşır. Bu ekranda
+      sırasıyla Öğrenci Ekle, Öğrenci Görüntüle, Öğrenci Başına Mevcut Sayı, Fakülte Ekle, Fakülte Görüntüle ve Çıkış butonları
+      bulunmaktadır. Yönetici burada Fakülte ekle seçeneği ile sisteme yeni bir kullanıcı tanımlama işlemini başlatabilir.
+      Fakülte Ekle butonuna tıklandığında Aşağıdaki gibi bir ekran açılır.  
+<p align="center">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155014605-2c0135d4-7e15-4e13-ba07-5724d309d196.jpg">
+</p>  
+
+ 
+
+
+
