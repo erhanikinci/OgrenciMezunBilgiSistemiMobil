@@ -1,30 +1,17 @@
-# Android-Attendance-App
+# Mezun-Öğrenci-Bilgi-Sistemi
 
 
 
-See Demo Here - https://projectworlds.in/android-projects-with-source-code/android-attendance-system-app-source-code/
-
-More Project
-
-Youtube Channel Link :https://www.youtube.com/channel/UCFMkpvtYjSAPXUPjImQK7bg?sub_confirmation=1
-
-
-Android is the ideal platform for developing such an application due to the wide variety of devices it supports.
-
-android developer, Java, Android Studio, Xml ·
-It is a system developed in android studio through which
-faculty can register the number of students in a particular
-class then register the number of subjects in that class and can mark the attendance of the students.
 <h2>Features Available</h2>
-<h3>Admin Module</h3>
+<h3>Admin Modülü</h3>
 <ul>
- 	<li>Add Student.</li>
- 	<li>Add Faculty.</li>
- 	<li>Add Teacher.</li>
- 	<li>View Student.</li>
- 	<li>View Teacher.</li>
- 	<li>View Student Attendance.</li>
- 	<li>View each student’s attendance separately</li>
+ 	<li>Öğrenci Ekle.</li>
+ 	<li>Öğrenci Görüntüle.</li>
+ 	<li>Öğrenci Başına Mevzut sayı.</li>
+ 	<li>Fakülte Ekle.</li>
+ 	<li>Fakülte Görüntüle.</li>
+ 	<li>Çıkış.</li>
+
 </ul>
 <h3>Teacher Module</h3>
 <ul>
@@ -41,10 +28,10 @@ class then register the number of subjects in that class and can mark the attend
  	<li>Internet Connection</li>
  	<li>Java</li>
 </ul>
-<h3>Admin Login</h3>
+<h3>Yönetici Girişi</h3>
 <ul>
- 	<li>Username :-admin</li>
- 	<li>Password :-admin123</li>
+ 	<li>Kullanıcı adı :-admin</li>
+ 	<li>Şifre :-admin123</li>
 </ul>
 &nbsp;
 <h3>Installation :</h3>
