@@ -96,9 +96,8 @@
     - Aşağıdaki ekranda çorlu mühendislik fakültesinin 2017 yılındaki mezun ve aktif öğrencilerin görüntülenmesi
       istenildiğinde gönder butonuna tıklanır ve fakülte ile hangi yıldaki mezunların bulunması Görüntüleme gibi bir ekran ile karşılaşılır.
 <p align="center">
-  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155017113-93ee46aa-0936-40b6-9a45-9edf6de9bb9a.jpg">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155017465-98390669-1c31-4796-a840-5781e711d138.jpg">
 </p> 
-
 
 
 
