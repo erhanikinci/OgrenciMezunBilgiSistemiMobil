@@ -85,7 +85,7 @@
 
 
 ### Fakülte Öğrenci Görüntüleme ekranı
-    - Aşağıda görülen ekranda, Öğrenci Görüntüle butonuna tıklandığında Öğrenci Görüntüleme ekranı açılır.
+    - Aşağıda görülen ekranda, Öğrenci Görüntüle butonuna tıklandığında Fakülte Öğrenci Görüntüleme ekranı açılır.
 <p align="center">
   <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155017113-93ee46aa-0936-40b6-9a45-9edf6de9bb9a.jpg">
 </p> 
