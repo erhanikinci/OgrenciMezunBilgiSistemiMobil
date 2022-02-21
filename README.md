@@ -69,4 +69,10 @@
 
 
 
+### Fakülte Görüntüle Ekranı
+    - Aşağıdaki ekranda Fakülte Görüntüle butonuna tıklandığında aşağıdaki gibi bir ekran açılır. 
+<p align="center">
+  <img width="300" height="600" src="https://user-images.githubusercontent.com/81168263/155015874-1e34fc32-c603-48bf-9d8f-4ee7d76df594.jpg">
+</p>  
+
 
