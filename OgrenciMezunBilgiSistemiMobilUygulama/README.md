@@ -2,8 +2,8 @@
 
 
 
-<h2>Features Available</h2>
-<h3>Admin Modülü</h3>
+<h2>Mevcut Özellikler</h2>
+<h3>Yönetici Modülü</h3>
 <ul>
  	<li>Öğrenci Ekle.</li>
  	<li>Öğrenci Görüntüle.</li>
@@ -13,7 +13,7 @@
  	<li>Çıkış.</li>
 
 </ul>
-<h3>Teacher Module</h3>
+<h3>Öğrenci Modülü</h3>
 <ul>
  	<li>Take attendance and keep them class wise</li>
  	<li>Add New student. View each student’s attendance separately</li>
